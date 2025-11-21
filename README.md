@@ -33,7 +33,7 @@ The repository and project drive will include the following:
 ---
 
 ## 🔗 Google Drive Link  
-👉 [Add your Google Drive link here once ready]  
+👉 https://drive.google.com/drive/folders/1WUXryF3Sn5WqVSFdaZwOEXEQXIhWAJdx?usp=drive_link  
 
 ---
 
