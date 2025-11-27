@@ -29,10 +29,6 @@ The repository and project drive will include the following:
 - **Week 3**: Insight generation and identifying key problem areas.  
 - **Week 4**: Building dashboards and preparing final deliverables.
 
----
-
-## 🔗 Google Drive Link  
-👉 https://drive.google.com/drive/folders/1WUXryF3Sn5WqVSFdaZwOEXEQXIhWAJdx?usp=drive_link  
 
 ---
 
@@ -53,5 +49,5 @@ The repository and project drive will include the following:
 ---
 
 ## 📌 Notes  
-- All project files will be available on **GitHub** and **Google Drive**.  
+- All project files will be available on **GitHub**.  
 - The repository will remain **public** for transparency and collaboration.  
