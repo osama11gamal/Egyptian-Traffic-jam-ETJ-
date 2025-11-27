@@ -10,8 +10,7 @@ The analysis includes accident hotspots, peak hours, and road conditions using t
 - **Python** (pandas, matplotlib, seaborn, folium)  
 - **Google Maps API / Waze API**  
 - **Excel**  
-- **Tableau / Power BI**  
-- **Jupyter Notebook / Google Colab**
+- **Power BI**
 
 ---
 
