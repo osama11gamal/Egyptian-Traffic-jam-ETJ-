@@ -24,7 +24,7 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Excel**  
 - **Python**
 - **Power Query**
@@ -32,7 +32,7 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 The repository and project drive will include the following:  
 - Raw and Cleaned Data  
 - Python Notebooks  
@@ -41,7 +41,7 @@ The repository and project drive will include the following:
 
 ---
 
-## 👥 Team Members  
+## Team Members  
 
 - **Osama Gamal**  
   - Email: osama.gamal.elfakhrany@gmail.com  
@@ -57,7 +57,7 @@ The repository and project drive will include the following:
 
 ---
 
-## 📅 Project Timeline  
+## Project Timeline  
 - **Week 1**: Data collection from public/government sources & APIs.  
 - **Week 2**: Data cleaning, preprocessing, and exploratory analysis.  
 - **Week 3**: Insight generation and identifying key problem areas.  
