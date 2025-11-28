@@ -101,6 +101,5 @@ Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 
-## 📌 Notes  
-- All project files will be available on **GitHub**.  
-- The repository will remain **public** for transparency and collaboration.  
+## Notes  
+- All project files are available on **GitHub**.
