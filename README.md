@@ -6,10 +6,10 @@ The analysis includes accident hotspots, peak hours, and road conditions using t
 
 ---
 
-## 🛠 Tools & Technologies  
-- **Python** (pandas, matplotlib, seaborn, folium)  
-- **Google Maps API / Waze API**  
+## 🛠 Tools & Technologies
 - **Excel**  
+- **Python**
+- **Power Query**
 - **Power BI**
 
 ---
@@ -19,7 +19,7 @@ The repository and project drive will include the following:
 - Raw and Cleaned Data  
 - Python Notebooks  
 - Visualizations & Dashboards  
-- Final Report & Presentation  
+- Presentation  
 
 ---
 
@@ -47,6 +47,22 @@ The repository and project drive will include the following:
   - Email: monabil727@gmail.com  
 
 ---
+
+## License  
+
+This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+
+You are free to:  
+- **Share** — copy and redistribute the material in any medium or format.  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.  
+
+As long as you give **appropriate credit** to the creators:  
+**Egyptian Traffic Jam (ETJ) Team (2025)**  
+
+Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
 
 ## 📌 Notes  
 - All project files will be available on **GitHub**.  
