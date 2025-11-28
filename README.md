@@ -1,8 +1,26 @@
 # 🚦 Egyptian Traffic Jam (ETJ)
 
-## 📌 Project Overview  
-This project focuses on **Data Analysis for Traffic Congestion in Egypt**, aiming to understand the root causes of traffic issues and propose data-driven solutions.  
-The analysis includes accident hotspots, peak hours, and road conditions using tools like Python, Tableau, and real-world traffic APIs.
+A data analysis project focused on traffic congestion in Egypt.
+
+## Project Idea
+
+Egyptian Traffic Jam (ETJ) analyzes traffic congestion patterns across Egypt to uncover the key factors behind delays and accidents. The project leverages data-driven insights to propose smart solutions that improve traffic flow, enhance road safety, and support more efficient transportation planning.
+
+The project includes:
+
+- **Data Cleaning and Preparation**  
+  Handling missing values, fixing inconsistencies, and preparing the dataset for analysis.
+
+- **Exploratory Data Analysis**  
+  Studying congestion behavior, speed trends, accident distributions, and regional variations.
+
+- **Data Visualization and Dashboards**  
+  Creating clear visual dashboards that illustrate congestion levels, hotspots, time trends, and accident statistics.
+
+- **Insights and Recommendations**  
+  Identifying peak hours, risk factors, anomalies, and providing evidence-based suggestions for improving traffic conditions.
+
+This project aims to turn raw traffic data into meaningful insights and visual representations that support better understanding of Egypt’s traffic challenges and help guide more effective planning and decision-making.
 
 ---
 
