@@ -24,6 +24,22 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 
 ---
 
+## Team Members  
+
+ - **Michael Medhat**  
+  - Email: michaelmedha6@gmail.com  
+
+- **Mohamed Mohy**  
+  - Email: nkshnassar@gmail.com  
+
+- **Mohamed Nabil**  
+  - Email: monabil727@gmail.com
+ 
+- **Osama Gamal**  
+  - Email: osama.gamal.elfakhrany@gmail.com
+  
+---
+
 ## Tools & Technologies
 - **Excel**  
 - **Python**
@@ -38,22 +54,6 @@ The repository and project drive will include the following:
 - Python Notebooks  
 - Visualizations & Dashboards  
 - Presentation  
-
----
-
-## Team Members  
-
-- **Osama Gamal**  
-  - Email: osama.gamal.elfakhrany@gmail.com  
-
-- **Michael Medhat**  
-  - Email: michaelmedha6@gmail.com  
-
-- **Mohamed Mohy**  
-  - Email: nkshnassar@gmail.com  
-
-- **Mohamed Nabil**  
-  - Email: monabil727@gmail.com  
 
 ---
 
