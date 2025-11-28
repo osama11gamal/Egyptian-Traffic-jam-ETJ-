@@ -23,18 +23,9 @@ The repository and project drive will include the following:
 
 ---
 
-## 📅 Project Timeline  
-- **Week 1**: Data collection from public/government sources & APIs.  
-- **Week 2**: Data cleaning, preprocessing, and exploratory analysis.  
-- **Week 3**: Insight generation and identifying key problem areas.  
-- **Week 4**: Building dashboards and preparing final deliverables.
-
-
----
-
 ## 👥 Team Members  
 
-- **Osama Gamal Soliman**  
+- **Osama Gamal**  
   - Email: osama.gamal.elfakhrany@gmail.com  
 
 - **Michael Medhat**  
@@ -47,6 +38,34 @@ The repository and project drive will include the following:
   - Email: monabil727@gmail.com  
 
 ---
+
+## 📅 Project Timeline  
+- **Week 1**: Data collection from public/government sources & APIs.  
+- **Week 2**: Data cleaning, preprocessing, and exploratory analysis.  
+- **Week 3**: Insight generation and identifying key problem areas.  
+- **Week 4**: Building dashboards and preparing final deliverables.
+
+
+---
+
+## Roles & Responsibilities
+
+- **Michael Medhat** 
+
+- **Mohamed Mohy**
+
+- **Mohamed Nabil**
+
+- **Osama Gamal**
+
+---
+
+## Instructor  
+
+- **Eng. Kareem Bakly**  
+
+---
+
 
 ## License  
 
