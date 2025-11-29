@@ -53,7 +53,7 @@ The repository includes the following:
 - Raw and Cleaned Data  
 - Python Notebook  
 - Visualizations & Dashboards  
-- Presentation  
+- Final Presentation  
 
 ---
 
