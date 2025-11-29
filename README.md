@@ -1,12 +1,46 @@
 # 🚦 Egyptian Traffic Jam (ETJ)
 
-## 📌 Project Overview  
-This project focuses on **Data Analysis for Traffic Congestion in Egypt**, aiming to understand the root causes of traffic issues and propose data-driven solutions.  
-The analysis includes accident hotspots, peak hours, and road conditions using tools like Python, Tableau, and real-world traffic APIs.
+A data analysis project focused on traffic congestion in Egypt.
+
+## Project Idea
+
+Egyptian Traffic Jam (ETJ) analyzes traffic congestion patterns across Egypt to uncover the key factors behind delays and accidents. The project leverages data-driven insights to propose smart solutions that improve traffic flow, enhance road safety, and support more efficient transportation planning.
+
+The project includes:
+
+- **Data Cleaning and Preparation**  
+  Handling missing values, fixing inconsistencies, and preparing the dataset for analysis.
+
+- **Exploratory Data Analysis**  
+  Studying congestion behavior, speed trends, accident distributions, and regional variations.
+
+- **Data Visualization and Dashboards**  
+  Creating clear visual dashboards that illustrate congestion levels, hotspots, time trends, and accident statistics.
+
+- **Insights and Recommendations**  
+  Identifying peak hours, risk factors, anomalies, and providing evidence-based suggestions for improving traffic conditions.
+
+This project aims to turn raw traffic data into meaningful insights and visual representations that support better understanding of Egypt’s traffic challenges and help guide more effective planning and decision-making.
 
 ---
 
-## 🛠 Tools & Technologies
+## Team Members  
+
+ - **Michael Medhat**  
+  - Email: michaelmedha6@gmail.com  
+
+- **Mohamed Mohy**  
+  - Email: nkshnassar@gmail.com  
+
+- **Mohamed Nabil**  
+  - Email: monabil727@gmail.com
+ 
+- **Osama Gamal**  
+  - Email: osama.gamal.elfakhrany@gmail.com
+  
+---
+
+## Tools & Technologies
 - **Excel**  
 - **Python**
 - **Power Query**
@@ -14,7 +48,7 @@ The analysis includes accident hotspots, peak hours, and road conditions using t
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 The repository and project drive will include the following:  
 - Raw and Cleaned Data  
 - Python Notebooks  
@@ -23,7 +57,7 @@ The repository and project drive will include the following:
 
 ---
 
-## 📅 Project Timeline  
+## Project Timeline  
 - **Week 1**: Data collection from public/government sources & APIs.  
 - **Week 2**: Data cleaning, preprocessing, and exploratory analysis.  
 - **Week 3**: Insight generation and identifying key problem areas.  
@@ -32,21 +66,24 @@ The repository and project drive will include the following:
 
 ---
 
-## 👥 Team Members  
+## Roles & Responsibilities
 
-- **Osama Gamal Soliman**  
-  - Email: osama.gamal.elfakhrany@gmail.com  
+- **Michael Medhat** 
 
-- **Michael Medhat**  
-  - Email: michaelmedha6@gmail.com  
+- **Mohamed Mohy**
 
-- **Mohamed Mohy**  
-  - Email: nkshnassar@gmail.com  
+- **Mohamed Nabil**
 
-- **Mohamed Nabil**  
-  - Email: monabil727@gmail.com  
+- **Osama Gamal**
 
 ---
+
+## Instructor  
+
+- **Eng. Kareem Bakly**  
+
+---
+
 
 ## License  
 
@@ -64,6 +101,5 @@ Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ---
 
 
-## 📌 Notes  
-- All project files will be available on **GitHub**.  
-- The repository will remain **public** for transparency and collaboration.  
+## Notes  
+- All project files are available on **GitHub**.
