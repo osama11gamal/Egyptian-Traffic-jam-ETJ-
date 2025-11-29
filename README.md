@@ -99,7 +99,7 @@ You are free to:
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.  
 
 As long as you give **appropriate credit** to the creators:  
-**Egyptian Traffic Jam (ETJ) Team (2025)**  
+**Egyptian Traffic Jam (ETJ) Team (2025 - 2026)**  
 
 Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
