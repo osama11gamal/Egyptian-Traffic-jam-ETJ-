@@ -45,13 +45,13 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 - **Python**
 - **Power Query**
 - **Power BI**
-
+  
 ---
 
 ## Project Structure  
-The repository and project drive will include the following:  
+The repository includes the following:  
 - Raw and Cleaned Data  
-- Python Notebooks  
+- Python Notebook  
 - Visualizations & Dashboards  
 - Presentation  
 
@@ -62,20 +62,25 @@ The repository and project drive will include the following:
 - **Week 2**: Data cleaning, preprocessing, and exploratory analysis.  
 - **Week 3**: Insight generation and identifying key problem areas.  
 - **Week 4**: Building dashboards and preparing final deliverables.
-
-
+  
 ---
 
 ## Roles & Responsibilities
 
-- **Michael Medhat** 
+- **Michael Medhat**
+  - Primary: Data Visualization  
+  - Secondary: Documentation, GitHub  
 
 - **Mohamed Mohy**
+  - Primary:Data Engineering (File Merging & Data Preparation)
+  - Secondary: Data Visualization, Data Modeling
 
 - **Mohamed Nabil**
+  - Primary: Data Data Collection (Gathering & Organizing Data Sources)
+  - Secondary: Final Presentation
 
 - **Osama Gamal**
-
+  - Primary: Data Modeling  
 ---
 
 ## Instructor  
