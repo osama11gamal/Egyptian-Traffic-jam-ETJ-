@@ -1,6 +1,6 @@
 # 🚦 Egyptian Traffic Jam (ETJ)
 
-A data analysis project focused on traffic congestion in Egypt.
+A data analysis project developed as part of the **Digital Egypt Pioneers Initiative (DEPI)**, focused on traffic congestion in Egypt.
 
 ## Project Idea
 
@@ -45,16 +45,7 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 - **Python**
 - **Power Query**
 - **Power BI**
-  
----
-
-## Project Structure  
-The repository includes the following:  
-- Raw and Cleaned Data  
-- Python Notebook  
-- Visualizations & Dashboards  
-- Final Presentation  
-
+- **Git & GitHub**  
 ---
 
 ## Project Timeline  
@@ -89,6 +80,19 @@ The repository includes the following:
 
 ---
 
+## Deliverables  
+The repository includes the following:  
+- Raw and Cleaned Data  
+- Python Notebook (`.ipynb`)
+- Visualizations & Dashboards:
+   - Power BI Dashboard (`.pbix`)
+   - Dashboard PDF (`.pdf`)
+   - Data Modeling (`.png`)
+- Final Presentation
+
+All project files are available on **GitHub** only.  
+
+---
 
 ## License  
 
@@ -104,7 +108,3 @@ As long as you give **appropriate credit** to the creators:
 Full license text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-
-
-## Notes  
-- All project files are available on **GitHub**.
