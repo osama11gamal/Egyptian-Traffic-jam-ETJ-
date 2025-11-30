@@ -26,17 +26,17 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 
 ## Team Members  
 
- - **Michael Medhat**  
-  - Email: michaelmedha6@gmail.com  
+ - **Michael Medhat**
+   - Email: michaelmedha6@gmail.com  
 
 - **Mohamed Mohy**  
-  - Email: nkshnassar@gmail.com  
+   - Email: nkshnassar@gmail.com  
 
 - **Mohamed Nabil**  
-  - Email: monabil727@gmail.com
+   - Email: monabil727@gmail.com
  
 - **Osama Gamal**  
-  - Email: osama.gamal.elfakhrany@gmail.com
+   - Email: osama.gamal.elfakhrany@gmail.com
   
 ---
 
