@@ -40,20 +40,57 @@ This project aims to turn raw traffic data into meaningful insights and visual r
   
 ---
 
+## Work Plan  
+
+1. **Data Collection**  
+   - Gathering datasets from multiple sources  
+   - Reviewing structure and verifying data quality  
+   - Preparing files for merging  
+
+2. **Data Engineering**  
+   - Merging row files using Python  
+   - Handling duplicates and inconsistent entries  
+   - Exporting a unified dataset  
+
+3. **Data Cleaning**  
+   - Cleaning and transforming data using Power Query  
+   - Fixing missing values & formatting issues  
+   - Preparing fields for analysis and modeling  
+
+4. **Data Modeling**  
+   - Creating relationships in Power BI  
+   - Building calculated columns and measures  
+   - Structuring the model for efficient reporting  
+
+5. **Data Visualization**  
+   - Designing dashboards in Power BI  
+   - Highlighting accident hotspots, peak hours, and road conditions  
+   - Building interactive charts and maps  
+
+6. **Insights & Recommendations**  
+   - Identifying patterns and risk factors  
+   - Summarizing conclusions from dashboard findings  
+   - Formulating data-driven improvement suggestions  
+
+7. **Review & Finalization**  
+   - Team review and adjustments  
+   - Exporting dashboard and analysis outputs  
+
+8. **Final Presentation**  
+   - Preparing a presentation deck  
+   - Documenting methodology and insights  
+   - Uploading all project files to GitHub
+
+---
+
 ## Tools & Technologies
+
 - **Excel**  
 - **Python**
 - **Power Query**
 - **Power BI**
-- **Git & GitHub**  
----
-
-## Project Timeline  
-- **Week 1**: Data collection from public/government sources & APIs.  
-- **Week 2**: Data cleaning, preprocessing, and exploratory analysis.  
-- **Week 3**: Insight generation and identifying key problem areas.  
-- **Week 4**: Building dashboards and preparing final deliverables.
-  
+- **Git & GitHub**
+ 
 ---
 
 ## Roles & Responsibilities
@@ -63,32 +100,43 @@ This project aims to turn raw traffic data into meaningful insights and visual r
   - Secondary: Documentation, GitHub  
 
 - **Mohamed Mohy**
-  - Primary:Data Engineering (File Merging & Data Preparation)
+  - Primary: Data Engineering (File Merging & Data Preparation)
   - Secondary: Data Visualization, Data Modeling
 
 - **Mohamed Nabil**
-  - Primary: Data Data Collection (Gathering & Organizing Data Sources)
+  - Primary: Data Collection (Gathering & Organizing Data Sources)
   - Secondary: Final Presentation
 
 - **Osama Gamal**
-  - Primary: Data Modeling  
+  - Primary: Data Modeling
+      
 ---
 
 ## Instructor  
 
-- **Eng. Kareem Bakly**  
-
+- **Eng. Kareem Bakly**
+ 
 ---
 
-## Deliverables  
+## Repository Structure (Deliverables) 
+
 The repository includes the following:  
-- Raw and Cleaned Data  
-- Python Notebook (`.ipynb`)
-- Visualizations & Dashboards:
-   - Power BI Dashboard (`.pbix`)
-   - Dashboard PDF (`.pdf`)
-   - Data Modeling (`.png`)
-- Final Presentation
+📂 Row Data/
+   ├── traffic_accidents_egypt.csv       # Accident dataset
+   └── traffic_congestion_egypt.csv      # Congestion dataset
+
+📂 Visualizations & Dashboards/
+   ├── Data Modeling.png                 # Power BI data model diagram
+   ├── ETJ.pbix                          # Power BI dashboard file
+   ├── ETJ.pdf                           # Exported dashboard (PDF)
+   └── Screen Recording In ETJ.pbix.mp4  # Dashboard screen recording
+
+📄 ETJ Final Data.xlsx                   # Final cleaned dataset (Python output)
+📄 ETJ.ipynb                             # Python notebook (merging & preprocessing)
+📄 Final Presentation.pptx               # Project presentation
+📄 LICENSE.txt                           # CC BY 4.0 license file
+📄 README.md                             # Project documentation
+
 
 All project files are available on **GitHub** only.  
 
