@@ -118,7 +118,7 @@ This project aims to turn raw traffic data into meaningful insights and visual r
  
 ---
 
-## 📂 Repository Structure (Deliverables)
+## Repository Structure (Deliverables)
 
 The repository includes the following:
 
