@@ -100,15 +100,16 @@ This project aims to turn raw traffic data into meaningful insights and visual r
   - Secondary: Documentation, GitHub  
 
 - **Mohamed Mohy**
-  - Primary: Data Engineering (File Merging & Data Preparation)
-  - Secondary: Data Visualization, Data Modeling
+  - Primary: Data Engineering (File Merging & Data Preparation), Data Modeling
+  - Secondary: Data Visualization
 
 - **Mohamed Nabil**
-  - Primary: Data Collection (Gathering & Organizing Data Sources)
-  - Secondary: Final Presentation
+  - Primary: Final Presentation
+  - Secondary: Data Collection (Gathering & Organizing Data Sources)
 
 - **Osama Gamal**
-  - Primary: Data Modeling
+  - Primary: Data Collection (Gathering & Organizing Data Sources)
+  - Secondary: Data Engineering (File Merging & Data Preparation)
       
 ---
 
