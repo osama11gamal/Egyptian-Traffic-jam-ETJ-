@@ -105,8 +105,7 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 
 - **Mohamed Nabil**
   - Primary: Data Driven-solutions, Final Presentation
-  - Secondary: Data Collection (Gathering & Organizing Data Sources)
-
+  - Secondary: Data Cleaning
 - **Osama Gamal**
   - Primary: Data Collection (Gathering & Organizing Data Sources)
   - Secondary: Data Engineering (File Merging & Data Preparation)
