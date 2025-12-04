@@ -104,7 +104,7 @@ This project aims to turn raw traffic data into meaningful insights and visual r
   - Secondary: Data Visualization
 
 - **Mohamed Nabil**
-  - Primary: Final Presentation
+  - Primary: Data Driven-solutions, Final Presentation
   - Secondary: Data Collection (Gathering & Organizing Data Sources)
 
 - **Osama Gamal**
