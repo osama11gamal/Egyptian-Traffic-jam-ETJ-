@@ -122,6 +122,9 @@ This project aims to turn raw traffic data into meaningful insights and visual r
 
 The repository includes the following:
 
+- **📂 Cleaned Data/**
+  - `ETJ Data (Cleaned & Python Output).xlsx` # Final cleaned dataset
+
 - **📂 Raw Data/**
   - `traffic_accidents_egypt.csv`       # Accident dataset
   - `traffic_congestion_egypt.csv`      # Congestion dataset
@@ -130,9 +133,7 @@ The repository includes the following:
   - `Data Modeling.png`                 # Power BI data model diagram
   - `ETJ.pbix`                          # Power BI dashboard file
   - `ETJ.pdf`                           # Exported dashboard (PDF)
-  - `ETJ Dashboard Recording.mp4`       # Dashboard screen recording
 
-- `ETJ Final Data.xlsx`                 # Final cleaned dataset (Python output)
 - `ETJ.ipynb`                           # Python notebook (merging & preprocessing)
 - `Final Presentation.pptx`             # Project presentation
 - `LICENSE.txt`                         # CC BY 4.0 license file
